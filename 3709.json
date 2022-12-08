@@ -1,0 +1,208 @@
+{
+    "tokenId": 3709,
+    "Name": "Idridel",
+    "Description": "ExoWorlds is a P2E NFT MMORPG Metaverse game on the VeChainThor Blockchain. 10,000 unique planets rendered in 5K-Resolution. Craft your civilizations, form interstellar alliances and trading relationships, explore the Verified Galaxy and manifest your destiny.",
+    "Rank": 7400,
+    "Rarity Score": 11257,
+    "Image": "https://exoworlds.mypinata.cloud/ipfs/QmUPcqQoBZufMTeC9tY434o3Roa4b8ZKiTpUjk2rerd7UX/3709.jpg",
+    "Highresimage": "https://exoworlds.mypinata.cloud/ipfs/QmYxZ1nd2v8vndskhsVUPx3kEVEpe28gM1nHTQD692tXp9/3709.jpg",
+    "Airdrop Bonus": "Public",
+    "attributes": [
+        {
+            "trait_type": "Sector",
+            "value": "135E-Ω"
+        },
+        {
+            "trait_type": "Coordinate",
+            "value": "(-42947, 45923, -103)"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Deep Space Black"
+        },
+        {
+            "trait_type": "Background Star Density",
+            "value": "Moderate"
+        },
+        {
+            "trait_type": "Background Nebula",
+            "value": "None"
+        },
+        {
+            "trait_type": "Exo Class",
+            "value": "ExoPlanet"
+        },
+        {
+            "trait_type": "World Type",
+            "value": "Terran"
+        },
+        {
+            "trait_type": "World Subtype",
+            "value": "Nova Terra"
+        },
+        {
+            "trait_type": "Mother Planet Type",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mother Planet Subtype",
+            "value": "None"
+        },
+        {
+            "trait_type": "Sentient Evolution",
+            "value": "Primate"
+        },
+        {
+            "trait_type": "System Type",
+            "value": "Single"
+        },
+        {
+            "trait_type": "Star 1 Type",
+            "value": "Star"
+        },
+        {
+            "trait_type": "Star 1 Spectral Class",
+            "value": "M (Red)"
+        },
+        {
+            "trait_type": "Star 1 Spectral Number",
+            "value": 5
+        },
+        {
+            "trait_type": "Star 1 Sequence",
+            "value": "V (Dwarf)"
+        },
+        {
+            "trait_type": "Star 2 Type",
+            "value": "None"
+        },
+        {
+            "trait_type": "Star 2 Spectral Class",
+            "value": "None"
+        },
+        {
+            "trait_type": "Star 2 Spectral Number",
+            "value": "None"
+        },
+        {
+            "trait_type": "Star 2 Sequence",
+            "value": "None"
+        },
+        {
+            "trait_type": "Star 3 Type",
+            "value": "None"
+        },
+        {
+            "trait_type": "Star 3 Spectral Class",
+            "value": "None"
+        },
+        {
+            "trait_type": "Star 3 Spectral Number",
+            "value": "None"
+        },
+        {
+            "trait_type": "Star 3 Sequence",
+            "value": "None"
+        },
+        {
+            "trait_type": "Moons",
+            "value": 2
+        },
+        {
+            "trait_type": "Moon 1 Type",
+            "value": "Rocky"
+        },
+        {
+            "trait_type": "Moon 2 Type",
+            "value": "Rocky"
+        },
+        {
+            "trait_type": "Moon 3 Type",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ring",
+            "value": "None"
+        },
+        {
+            "trait_type": "Ring Type",
+            "value": "None"
+        },
+        {
+            "trait_type": "Bio Diversity Scale",
+            "value": "Highly Diverse"
+        },
+        {
+            "trait_type": "Carniverous Vegetation",
+            "value": "FALSE"
+        },
+        {
+            "trait_type": "Secret Biosphere",
+            "value": "FALSE"
+        },
+        {
+            "trait_type": "Gaia",
+            "value": "FALSE"
+        },
+        {
+            "trait_type": "Intelligent Microbiome",
+            "value": "FALSE"
+        },
+        {
+            "trait_type": "Apex Predators",
+            "value": 0
+        },
+        {
+            "trait_type": "SE Fitness Factor",
+            "value": "High"
+        },
+        {
+            "trait_type": "SE Intelligence Capacity",
+            "value": "Exceptional"
+        },
+        {
+            "trait_type": "SE Conciousness Affinity",
+            "value": "Vast"
+        },
+        {
+            "trait_type": "Neighbor 1",
+            "value": "ID:  2409  ~ 1030  LY"
+        },
+        {
+            "trait_type": "Neighbor 2",
+            "value": "ID:  9808  ~ 1355  LY"
+        },
+        {
+            "trait_type": "Neighbor 3",
+            "value": "ID:  9134  ~ 1579  LY"
+        },
+        {
+            "trait_type": "Neighbor 4",
+            "value": "ID:  6042  ~ 1583  LY"
+        },
+        {
+            "trait_type": "Neighbor 5",
+            "value": "ID:  5053  ~ 1821  LY"
+        },
+        {
+            "trait_type": "Neighbor 6",
+            "value": "ID:  4106  ~ 2218  LY"
+        },
+        {
+            "trait_type": "Neighbor 7",
+            "value": "ID:  8627  ~ 2527  LY"
+        },
+        {
+            "trait_type": "Neighbor 8",
+            "value": "ID:  1977  ~ 2547  LY"
+        },
+        {
+            "trait_type": "Neighbor 9",
+            "value": "ID:  9231  ~ 2562  LY"
+        },
+        {
+            "trait_type": "Neighbor 10",
+            "value": "ID:  9455  ~ 2614  LY"
+        }
+    ]
+}
